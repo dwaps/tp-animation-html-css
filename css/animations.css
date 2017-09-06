@@ -1,0 +1,234 @@
+@-webkit-keyframes toBlink {
+  0% {
+    top: 30px;
+    height: 20px;
+  }
+  18% {
+    top: 30px;
+    height: 20px;
+  }
+  22% {
+    top: 44px;
+    height: 2px;
+  }
+  26% {
+    top: 30px;
+    height: 20px;
+  }
+  48% {
+    top: 30px;
+    height: 20px;
+  }
+  50% {
+    top: 44px;
+    height: 2px;
+  }
+  52% {
+    top: 30px;
+    height: 20px;
+  }
+  63% {
+    top: 30px;
+    height: 20px;
+  }
+  65% {
+    top: 44px;
+    height: 2px;
+  }
+  67% {
+    top: 30px;
+    height: 20px;
+  }
+  100% {
+    top: 30px;
+    height: 20px;
+  }
+}
+
+@-moz-keyframes toBlink {
+  0% {
+    top: 30px;
+    height: 20px;
+  }
+  18% {
+    top: 30px;
+    height: 20px;
+  }
+  22% {
+    top: 44px;
+    height: 2px;
+  }
+  26% {
+    top: 30px;
+    height: 20px;
+  }
+  48% {
+    top: 30px;
+    height: 20px;
+  }
+  50% {
+    top: 44px;
+    height: 2px;
+  }
+  52% {
+    top: 30px;
+    height: 20px;
+  }
+  63% {
+    top: 30px;
+    height: 20px;
+  }
+  65% {
+    top: 44px;
+    height: 2px;
+  }
+  67% {
+    top: 30px;
+    height: 20px;
+  }
+  100% {
+    top: 30px;
+    height: 20px;
+  }
+}
+
+@-ms-keyframes toBlink {
+  0% {
+    top: 30px;
+    height: 20px;
+  }
+  18% {
+    top: 30px;
+    height: 20px;
+  }
+  22% {
+    top: 44px;
+    height: 2px;
+  }
+  26% {
+    top: 30px;
+    height: 20px;
+  }
+  48% {
+    top: 30px;
+    height: 20px;
+  }
+  50% {
+    top: 44px;
+    height: 2px;
+  }
+  52% {
+    top: 30px;
+    height: 20px;
+  }
+  63% {
+    top: 30px;
+    height: 20px;
+  }
+  65% {
+    top: 44px;
+    height: 2px;
+  }
+  67% {
+    top: 30px;
+    height: 20px;
+  }
+  100% {
+    top: 30px;
+    height: 20px;
+  }
+}
+
+@-o-keyframes toBlink {
+  0% {
+    top: 30px;
+    height: 20px;
+  }
+  18% {
+    top: 30px;
+    height: 20px;
+  }
+  22% {
+    top: 44px;
+    height: 2px;
+  }
+  26% {
+    top: 30px;
+    height: 20px;
+  }
+  48% {
+    top: 30px;
+    height: 20px;
+  }
+  50% {
+    top: 44px;
+    height: 2px;
+  }
+  52% {
+    top: 30px;
+    height: 20px;
+  }
+  63% {
+    top: 30px;
+    height: 20px;
+  }
+  65% {
+    top: 44px;
+    height: 2px;
+  }
+  67% {
+    top: 30px;
+    height: 20px;
+  }
+  100% {
+    top: 30px;
+    height: 20px;
+  }
+}
+
+@keyframes toBlink {
+  0% {
+    top: 30px;
+    height: 20px;
+  }
+  18% {
+    top: 30px;
+    height: 20px;
+  }
+  22% {
+    top: 44px;
+    height: 2px;
+  }
+  26% {
+    top: 30px;
+    height: 20px;
+  }
+  48% {
+    top: 30px;
+    height: 20px;
+  }
+  50% {
+    top: 44px;
+    height: 2px;
+  }
+  52% {
+    top: 30px;
+    height: 20px;
+  }
+  63% {
+    top: 30px;
+    height: 20px;
+  }
+  65% {
+    top: 44px;
+    height: 2px;
+  }
+  67% {
+    top: 30px;
+    height: 20px;
+  }
+  100% {
+    top: 30px;
+    height: 20px;
+  }
+}
